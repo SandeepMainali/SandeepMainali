@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepmainali&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepmainali" /> </p>
 
-- 🌱 I’m currently learning **PHP,React,Laravel,Python**
+- 🌱 I’m currently learning **PHP,Laravel,Python**
 
 - 💬 Ask me about **Front End Development**
 
