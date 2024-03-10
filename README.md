@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepmainali&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepmainali" /> </p>
 
-- 🌱 I’m currently learning **PHP,Laravel,Python**
+- 🌱 I’m currently learning **JAVA,SpringBoot,PHP,Laravel**
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Back-End Development**
 
 - 📫 How to reach me **sandeep.mn10@gmail.com**
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/@sandeepmainali5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandeepmainali5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeep-mainali-a708aa199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-mainali-a708aa199" height="30" width="40" /></a>
-<a href="https://fb.com/sandeep.mn11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeep.mn11" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/sandeep.mn11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeep.mn11" height="30" width="40" /></a> -->
 <a href="https://instagram.com/sandeep_mainali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_mainali" height="30" width="40" /></a>
 </p>
 
